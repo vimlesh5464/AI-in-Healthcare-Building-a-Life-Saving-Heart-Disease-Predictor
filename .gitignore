@@ -1,0 +1,9 @@
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.venv/
+env/
+ENV/
+.env
+.DS_Store
